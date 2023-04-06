@@ -1,3 +1,0 @@
-Hej!
-Detta är rad 2
-och det här är rad 3 och sista raden.
